@@ -8,5 +8,5 @@ describe("testar taxaService", () => {
     })
 })
 
- test(" não aplicar taxa ate 500", () => {
+ test(" aplicar 5% acima de 500", () => {
         expect(calcularTaxa(300)).toBe(300) })
