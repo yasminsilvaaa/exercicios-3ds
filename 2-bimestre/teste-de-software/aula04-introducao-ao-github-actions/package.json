@@ -1,0 +1,14 @@
+{
+  "name": "aula04-introducao-ao-github-actions",
+  "version": "1.0.0",
+  "description": "- Entender o que é GitHub Actions. - Criar o primeiro workflow. - Aprender estrutura básica de arquivo YAML. - Executar build automático com Node.js. - Relacionar push com automação real.",
+  "main": "index.js",
+  "scripts": {
+ "test": "echo Testes executados com sucesso",
+    "build": "echo Build realizado com sucesso"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
