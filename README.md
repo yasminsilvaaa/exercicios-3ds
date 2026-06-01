@@ -1,5 +1,7 @@
 <b>🏭 FORMULÁRIO DE SONDAGEM DE CONCEDENTES: [CLIQUE AQUI](https://forms.gle/ZjFrmogfsyjRy4ieA)</b>
 
+## KANBAN DE PROJETOS: <a href="https://github.com/users/evssousa/projects/6/views/1">CLIQUE AQUI</a>
+
 # Exercícios para os Alunos
 Lista de exercícios para os alunos das turmas de Desenvolvimento de Sistemas da escola EEEP Deputado Roberto Mesquita.
 
@@ -15,55 +17,36 @@ Complete o exercício no tempo estimado.
 
 ---
 
-# Atividades e Projetos - 1º Bimestre
+# Atividades e Projetos
 
 ### Qualidade e Teste de Software
-- Projeto Pessoal: Desenvolver um sistema utilizando conhecimentos de lógica de programação que contenha no mínimo 10 testes unitários e criar um relatório explicativo desses testes em formato de elicitação de requisitos (folha A4 e formato PDF, enviando para um repositório novo no seu Github).
-Previsão para 30-mar | Quantidade de Indivíduos: 1 pessoa (2-3 min de apresentação)
-- Prova Bimestral: previsão para 06-abr
-- **Projeto 1 - Sistema de Validação de Pedidos**<br>
+- Projeto Pessoal: Desenvolver um sistema que resolva um PROBLEMA PESSOAL DA DUPLA, utilizando conhecimento de lógica de programação, contendo técnicas de CI/CD demonstrados em aula, como tests, builds, jobs, steps, variables, branches, pipeline e etc, além de criar um relatório explicativo do projeto em formato de elicitação de requisitos, que deve está no README. Previsão para 08-jun | Quantidade de Indivíduos: 2 pessoas (3-5 min de apresentação)
+- Prova Bimestral: previsão para 15-jun
+- **✅ Projeto 1 - Sistema de Validação de Pedidos**<br>
 Prazo de Entrega 1: 25-fev (5 pt) | Prazo de Entrega 2: 01-mar (3 pt)
-- **Projeto 2 - Sistema de Cadastro de Tarefas**<br>
+- **✅ Projeto 2 - Sistema de Cadastro de Tarefas**<br>
 Prazo de Entrega 1: 25-mar (5 pt) | Prazo de Entrega 2: 29-mar (3 pt)
+- **⚠️ Projeto 3 - Simulando um Fluxo Completo de CI com Branches e Pull Request**<br>
+Prazo de Entrega 1: 17-mai (5 pt) | Prazo de Entrega 2: 20-mai (3 pt)
+
+#### | CONTEÚDOS PARA A PROVA
+```
+-
+```
 
 ### Gestão de Startup III
-- Projeto Pessoal: Apresentar solução que está sendo desenvolvida para os professores (versão beta). Deve ser apresentado em formato de Pitch, contendo demonstração do MVP e documentação do sistema.
-Previsão para 03-abr | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
-- Prova Bimestral: previsão para 06-abr
-- **Projeto 1 - Apresentação do Briefing**<br>
+- Projeto Pessoal: Apresentar produto final da solução que estava sendo desenvolvida para os professores. Deve ser apresentado em formato de Pitch, contendo demonstração do sistema e **documentação em folha A4 IMPRESSA SEGUINDO AS NORMAS DA ABNT!**. Previsão para 12-jun | Quantidade de Indivíduos: grupos com até 5 pessoas (5-10 min de apresentação)
+- Prova Bimestral: previsão para 19-jun
+- **✅ Projeto 1 - Apresentação do Briefing**<br>
 Prazo de Entrega 1: 27-fev (5 pt) | Prazo de Entrega 2: 06-mar (3 pt)
-- **Projeto 2 -**<br>
-Prazo de Entrega 1: - (5 pt) | Prazo de Entrega 2: - (3 pt)
+- **✅ Projeto 2 - Construção de Perfil Profissional**<br>
+Prazo de Entrega 1: 01-abr (5 pt) | Prazo de Entrega 2: 07-abr (3 pt)
+- **⚠️ Projeto 3 - Criando a Identidade e o Modelo de uma Startup Real**<br>
+Prazo de Entrega 1: 15-mai (5 pt) | Prazo de Entrega 2: não há
+
+#### | CONTEÚDOS PARA A PROVA
+```
+-
+```
 
 OBS: É necessário que todos os exercícios estejam concluídos até um dia antes da apresentação do projeto pessoal. Caso o aluno não tenha completado os exercícios, terá -3 pontos na nota Qualitativa.
-
-# Status do Actions
-|Aluno              |Exercícios   |Projetos   |
-|-------------------|-------------|-----------|
-|Ana Beatriz        |[![Corretor de Exercícios](https://github.com/Beatriz-castro22/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Beatriz-castro22/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Beatriz-castro22/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Beatriz-castro22/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Ana Heloisa        |[![Corretor de Exercícios](https://github.com/heloisa-angelo/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/heloisa-angelo/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/heloisa-angelo/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/heloisa-angelo/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Anna Beatryz       |[![Corretor de Exercícios](https://github.com/Beatryzgurgel/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Beatryzgurgel/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Beatryzgurgel/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Beatryzgurgel/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Antonia Soaria     |[![Corretor de Exercícios](https://github.com/soraia-uchoa/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/soraia-uchoa/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/soraia-uchoa/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/soraia-uchoa/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Antonio Alisson    |[![Corretor de Exercícios](https://github.com/RavQueen/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/RavQueen/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/RavQueen/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/RavQueen/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Antonio Helder     |[![Corretor de Exercícios](https://github.com/Helder650/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Helder650/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Helder650/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Helder650/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Berckson Thierry   |[![Corretor de Exercícios](https://github.com/Berckson/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Berckson/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Berckson/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Berckson/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Caio Breno         |[![Corretor de Exercícios](https://github.com/caiobreno123/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/caiobreno123/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/caiobreno123/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/caiobreno123/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Carlos Eduardo     |[![Corretor de Exercícios](https://github.com/carlosalvexs/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/carlosalvexs/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/carlosalvexs/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/carlosalvexs/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Emili Sophia       |[![Corretor de Exercícios](https://github.com/EmiliSophiaCordeiro/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/EmiliSophiaCordeiro/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/EmiliSophiaCordeiro/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/EmiliSophiaCordeiro/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Evelin Maria       |[![Corretor de Exercícios](https://github.com/EvelinAzevedo/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/EvelinAzevedo/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/EvelinAzevedo/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/EvelinAzevedo/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Felipe Freitas     |[![Corretor de Exercícios](https://github.com/Felipefreitas020/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Felipefreitas020/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Felipefreitas020/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Felipefreitas020/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Francisco Davi     |[![Corretor de Exercícios](https://github.com/DaviNascimento15/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/DaviNascimento15/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/DaviNascimento15/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/DaviNascimento15/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Francisco Tiago    |[![Corretor de Exercícios](https://github.com/tiago443/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/tiago443/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/tiago443/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/tiago443/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Gustavo Silva      |[![Corretor de Exercícios](https://github.com/GustavoSilva3164/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/GustavoSilva3164/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/GustavoSilva3164/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/GustavoSilva3164/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Gustavo Teixeira   |[![Corretor de Exercícios](https://github.com/gustav0tx/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/gustav0tx/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/gustav0tx/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/gustav0tx/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Joao Henrique      |[![Corretor de Exercícios](https://github.com/jaohenriqq/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/jaohenriqq/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/jaohenriqq/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/jaohenriqq/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Jose Enzo          |[![Corretor de Exercícios](https://github.com/enzoramoss/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/enzoramoss/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/enzoramoss/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/enzoramoss/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Livia Maria        |[![Corretor de Exercícios](https://github.com/liviaamota/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/liviaamota/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/liviaamota/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/liviaamota/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Maria Eloisa       |[![Corretor de Exercícios](https://github.com/Eloisa488/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Eloisa488/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Eloisa488/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Eloisa488/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Maria Lauriene     |[![Corretor de Exercícios](https://github.com/Lauriene9090/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Lauriene9090/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Lauriene9090/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Lauriene9090/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Riquelme Ladislau  |[![Corretor de Exercícios](https://github.com/RiquelmeLadislau/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/RiquelmeLadislau/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/RiquelmeLadislau/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/RiquelmeLadislau/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Rodolfo dos Santos |[![Corretor de Exercícios](https://github.com/RodolfoSantss/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/RodolfoSantss/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/RodolfoSantss/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/RodolfoSantss/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Rosiele Ferreira   |[![Corretor de Exercícios](https://github.com/RosieleSousa/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/RosieleSousa/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/RosieleSousa/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/RosieleSousa/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Thiago Botelho     |[![Corretor de Exercícios](https://github.com/thiago2898/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/thiago2898/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/thiago2898/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/thiago2898/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Vivian Maria       |[![Corretor de Exercícios](https://github.com/Vivianvazr/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/Vivianvazr/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/Vivianvazr/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/Vivianvazr/exercicios-3ds/actions/workflows/testes-projetos.yml)|
-|Yasmin Silva       |[![Corretor de Exercícios](https://github.com/yasminsilvaaa/exercicios-3ds/actions/workflows/testes-exercicios.yml/badge.svg)](https://github.com/yasminsilvaaa/exercicios-3ds/actions/workflows/testes-exercicios.yml)|[![Corretor de Projetos](https://github.com/yasminsilvaaa/exercicios-3ds/actions/workflows/testes-projetos.yml/badge.svg)](https://github.com/yasminsilvaaa/exercicios-3ds/actions/workflows/testes-projetos.yml)|
